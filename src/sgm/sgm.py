@@ -4,7 +4,6 @@ import numpy as np
 import cv2
 from interval3 import Interval
 from utils import timer
-# https://yunyang1994.gitee.io/2020/01/17/%E6%89%8B%E5%86%99%E5%8F%8C%E7%9B%AE%E7%AB%8B%E4%BD%93%E5%8C%B9%E9%85%8D-SGM-%E7%AE%97%E6%B3%95-%E4%B8%8A/
 class SemiGlobalMatching:
     def __init__(self,height,width) -> None:
         self.output_path='./output/demo/'
