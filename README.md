@@ -1,6 +1,6 @@
 # stereovis
 
-## (相机模型)[docs/1 相机模型.md]
+## (相机模型)[http://baidu.com]
 
 ## (相机标定)[docs/2 相机标定.md] (源码)[src/calibrate/intrinsic/run.py]
 
